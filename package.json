@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/danplubell.litts-lt0p0mkx",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve hFiT9NHgWXKvXU6O5QWV --open"
+  },
+  "dependencies": {}
+}
